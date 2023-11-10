@@ -11,4 +11,4 @@ To train a model, run `train_model.py -d=<dataset> -b=<batch_size> -e=<epochs>`.
 To generate adversarial examples, run `generate_adv.py -d=<dataset>`.
 
 ## Detection
-To run all the detector, just execute `run_detectors.py`. If you want to run a specific detection method, execute `detect_{method_name}.py`, replacing {method_name} with the name of the method you wish to run.
+To run all the detector, just execute `run_detectors.py`. If you want to run a specific detection method, execute `detect_{method_name}.py`, replacing `method_name` with the name of the method you wish to run.
