@@ -1,5 +1,5 @@
 ## An open-source toolkit for Adversarial Example Detection
-This repo implements a set of detection methods for adversarial example detection (AED). So far, it supports experiments on MNIST, CIFAR-10, SVHN, and ImageNet datasets with 7 detection methods: KDE, LID, NSS, FS, Magnet, NIC, and MultiLID. A brief description and reference of these methods can be found below. 
+This repo implements a set of detection methods for adversarial example detection. So far, it supports experiments on MNIST, CIFAR-10, SVHN, and ImageNet datasets with 7 detection methods: KDE, LID, NSS, FS, Magnet, NIC, and MultiLID. A brief description and reference of these methods can be found below. 
 
 ### Setting Paths
 Open `setup_paths.py` and configure the paths and other settings for the detection methods.
